@@ -117,8 +117,3 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](L
 
 ---
 
-## Contato
-
-- **Nome**: [Seu Nome]
-- **E-mail**: [Seu E-mail]
-- **GitHub**: [Link do seu GitHub]
